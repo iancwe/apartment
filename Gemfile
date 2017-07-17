@@ -31,8 +31,8 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 # Using apartment gem to multitenancy
 gem 'apartment'
-#Fixing error of build undefined method 'new'
-gem 'exception_notification'
+# #Fixing error of build undefined method 'new'
+# gem 'exception_notification'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
