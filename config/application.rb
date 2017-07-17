@@ -13,7 +13,7 @@ module Apartment
     config.load_defaults 5.1
 
     # do i really need this since its in the apartment?
-    config.middleware.use Apartment::Elevators::Subdomain
+    # config.middleware.use Apartment::Elevators::Subdomain
 
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
